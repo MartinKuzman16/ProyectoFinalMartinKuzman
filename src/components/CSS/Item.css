@@ -1,0 +1,32 @@
+.card {
+  display: inline-block;
+  border: 5px solid black; 
+  width: 20rem;
+  }
+
+.img {
+  margin-left: 18%;
+  width: 200px;
+  height: 400px;
+}
+
+.info {
+  text-align: center;
+}
+
+.name {
+text-decoration: none;
+color: black;
+}
+
+.name span{
+  text-align: center;
+  color: rgb(0, 0, 0);
+  font-size: 17px;
+}
+
+.price {
+  font-size: large;
+  color: black;
+  font-weight: bolder;
+}
