@@ -30,7 +30,6 @@ function ItemListContainer({ gretting }) {
 
   return (
     <>
-      <Link to={'/newProduct'}><button>Crear producto</button></Link>
       <h2>{gretting}</h2>
       {isLoading ? (
         <div>
