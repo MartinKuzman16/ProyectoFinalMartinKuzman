@@ -1,7 +1,7 @@
 
 
 # Descripción
-Proyecto Final para el curso de ReactJS de la academia Coder House (2022). La aplicación permite conectarse con un backend realizdo con Firebase. Permite seleccionar ciertos productos, navegar a sus detalles, agregarlos al carrito, y comprar.
+Proyecto Final para el curso de ReactJS de la academia Coder House. La aplicación permite conectarse con un backend realizdo con Firebase. Permite seleccionar ciertos productos, navegar a sus detalles, agregarlos al carrito, y comprar.
 
 # Tecnologías y librerías:
 
